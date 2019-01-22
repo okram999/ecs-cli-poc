@@ -3,4 +3,6 @@
 Files of importance:
   * ~/.ecs/configure
   * ~/.ecs/credentials
-
+  * docker-compose.yml
+  * ecs-params.yml
+  
