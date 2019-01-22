@@ -1,0 +1,11 @@
+version: v1
+default: tutorial
+clusters:
+  tutorial:
+    cluster: test-ecscliCluster
+    region: us-east-1
+    default_launch_type: FARGATE
+  default-aws:
+    cluster: default-aws
+    region: us-east-1
+    default_launch_type: FARGATE
